@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    
+    "@reduxjs/toolkit": "^2.2.6",
+    "aos": "^2.3.4",
+    "axios": "^1.7.2",
+    "react-redux": "^9.1.2",
+    "react-router": "^6.24.1",
+    "react-router-dom": "^6.24.1",
+    "redux": "^5.0.1"
+  }
+}
