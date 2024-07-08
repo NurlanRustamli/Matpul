@@ -6,7 +6,9 @@ import Footer from './footer'
 function UserLayout() {
   return (
     <>
+    <header>
     <Navbar/>
+    </header>
     <Outlet/>
     <Footer/>
     </>
